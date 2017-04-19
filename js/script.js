@@ -3,12 +3,12 @@ $(function(){
 
     // YOU MUST EDIT THIS SECTION
     // You must supply a Trove API key
-    var troveAPIKey = '';
+    var troveAPIKey = 'q82kb96vqlg3fbro';
     // Either provide full API query here or include options below
-    var apiQuery = '';
+    var apiQuery = 'cowpastures bridge';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
-    var keywords = '';
+    var keywords = 'any';
     // How you want to combine keywords -- all, any, or phrase
     var keywordType = 'all'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
